@@ -1,47 +1,5 @@
-# Doggy Directory
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/Cool-Runningz/doggy-directory">
-    <img src="public/logo192.png" alt="Logo" width="80" height="80">
-  </a>
+Here is my tests for the `App` component after following along [with the tutorial](https://www.digitalocean.com/community/tutorials/how-to-test-a-react-app-with-jest-and-react-testing-library) then trying to write the tests by myself without looking at the code.
 
-  <p align="center">
-  <strong>This is a sample app for the DigitalOcean article: "How to Test a React App with Jest and React Testing Library"</strong>
-    <br />
-    <br />
-    <a href="https://doggy-directory-app-6bm2f.ondigitalocean.app/">View Demo 🏗️</a>
-  </p>
-</p>
+I needn't clutter github with duplicate source code, so I just added my test.
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+I added some nice comments to make it easier for myself to write the tests, where you write the steps that you want to achive comment by comment, then below each comment you write the code.
