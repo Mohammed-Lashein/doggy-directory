@@ -10,3 +10,5 @@ I searched and found [this answer on stackoverflow](https://stackoverflow.com/qu
 
 
 **Another note:** After surfing the writer's github profile, I found [this amazing game](https://github.com/Cool-Runningz/paw-and-order) that you can try to follow along with the commits and make it(that's what I hope to have time to do someday) because the game has very nice transitions, and the styling is done using tailwind with no component libraries!
+
+Finally, you can view my notes from [this notion page](https://www.notion.so/RTL-examples-notes-215d0618123580f5b3dfe71cf99a890c?source=copy_link).
